@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Backend URL
-backend_url = "https://eb58-2001-8f8-1d36-9fda-2048-2b33-cc9c-1d02.ngrok-free.app"  # Update with the deployed backend URL
+backend_url = "https://b3d0-2001-8f8-1d36-9fda-2048-2b33-cc9c-1d02.ngrok-free.app"  # Update with the deployed backend URL
 
 # Add custom CSS for styling
 st.markdown(
